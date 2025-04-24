@@ -1,0 +1,50 @@
+
+{% extends 'store/layouts/main.html' %}
+
+{% block title %}
+Retail-Shop
+{% endblock title %}
+
+{% block content %}
+
+{% include 'store/inc/slider.html' %}
+<div class="container" style = "margin-top:70px;">
+    <div class="row">
+        <div class="col-12">
+            <h1>This is the Homepage</h1>
+        </div>
+    </div>
+</div>
+
+
+<section class="bg-light py-4 my-5">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <h4 class="mb-3">{{products}} Details</h4>
+                <hr style="border-color: #b8bfc2;">
+            </div>
+
+            <div class="col-4 my-3">
+            <img src="{{products.prod_image.url}}" class="card-image-top" alt="products">
+            </div>
+            <div class="col-8 ay-3">
+                <h5 class="text-success">MEN'S SHOES FASHION</h5>
+                <p>Seller Nane</p>
+                <p>Loren ipsun dolor sit amet consectetur adipisicing elit. Nemo ab quod beatae voluptatum accusantium dolor ius
+                    quasi bLanditiis, quidem cuni Sed doloremque blanditiis explicabo architecto molesties fugiat officiis aliquan
+                    temporel</p>
+                <h6 class="my-2">Current Price : Rs. <s>458</s></h6>
+                <h5 class="my-2">0ffer Price: Rs.350</h5>
+                <div class="my-3">
+                    <button class="btn btn-primary"><i class="fa fa-cart"></i> Add to Cart</button>
+                    <button class="btn btn-danger"><i class="fa fa-heart"></i></button>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+{% endblock content %}
+
