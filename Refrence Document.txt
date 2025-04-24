@@ -1,0 +1,151 @@
+1. Basic Html 
+
+https://getbootstrap.com/docs/5.0/getting-started/introduction/
+
+
+IMAGES
+
+////////// PHONES ///////////// 
+
+1. iPhone_Max
+
+https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MA7F4?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1723162550519
+
+2. Samsung s24 Ultra
+
+https://images.samsung.com/is/image/samsung/p6pim/uk/2401/gallery/uk-galaxy-s24-ultra-online-exclusive-491397-sm-s928bzogeub-539464813?$684_547_PNG$
+
+3. Xiaomi 14 ultra
+
+https://www.dxomark.com/wp-content/uploads/medias/post-171171/bdc0df40e7c3983b73802b3d47dd20c4600x60085.jpg
+
+4. Google Pixel
+
+https://retechit.ie/wp/wp-content/uploads/2024/09/Google-Pixel-8-Pro-featured-image-packshot-review.jpg
+
+5. Smartphones
+
+https://i.ytimg.com/vi/ksZS2oqOtB0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDUqEozezZOOfDGtP4dFaMt2ExM8g
+
+////////// SMARTWATCHES ///////////// 
+
+1. Apple_watch
+
+https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MAX94ref_AV1?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1724280573997
+
+2. Samsung_watch
+
+https://images.samsung.com/is/image/samsung/p6pim/nz/2407/gallery/nz-galaxy-watch-ultra-l705-sm-l705fdaaxnz-542169617?$684_547_PNG$
+
+3. OnePlus_Watch
+
+https://www.google.com/imgres?q=oneplus%20watch&imgurl=https%3A%2F%2Fimage01-eu.oneplus.net%2Fmedia%2F202503%2F25%2F7d98f40f2879c7478838815d55432b9e.png&imgrefurl=https%3A%2F%2Fwww.oneplus.com%2Fie%2Fbuy-oneplus-watch-2r&docid=EAz3gvsqp_-6WM&tbnid=mgBm2FxzvlQf_M&vet=12ahUKEwjdrvu-u--MAxWRV0EAHWd8D6MQM3oECB4QAA..i&w=960&h=960&hcb=2&ved=2ahUKEwjdrvu-u--MAxWRV0EAHWd8D6MQM3oECB4QAA
+
+4. Pixel_Watch
+
+https://www.three.ie/content/dam/accessories/google/Pixel_watch2_black1.jpg
+
+5. Smartwatches
+
+https://t4.ftcdn.net/jpg/02/44/17/39/360_F_244173933_QPbn77c2Tjy5A4XoOJWqxysJibBpDy3T.jpg
+
+
+
+////////// Headphones ///////////// 
+
+1. Bose_headphone
+
+https://assets.bose.com/content/dam/cloudassets/Bose_DAM/Web/consumer_electronics/global/products/headphones/noise_cancelling_headphones_700/product_silo_images/Silo_jpg/noise_cancelling_headphones_700_silver_EC_hero.png/jcr:content/renditions/cq5dam.web.1280.1280.png
+
+2. Sony_headphone
+
+https://cdn11.bigcommerce.com/s-90rhh09dph/images/stencil/1280x1280/products/12064/23013/WH1000XM5SCE7_01__73527.1654874223.jpg?c=1
+
+3. Sennheiser
+
+https://www.seanhennessy.ie/image/thumbnails/1d/38/HD_350BT_WH_jpg-119686-800x800.jpg
+
+4. Skullcandy
+
+https://cdn11.bigcommerce.com/s-8ek7z3h3jn/images/stencil/1280x1280/products/9875/57876/skullcandy-riff-2-on-ear-wireless-headphones-black-or-s5prw-p740__53938.1722438331.jpg?c=1
+
+5. Headphones 
+
+https://routenote.com/blog/wp-content/uploads/2021/03/Headphone-prices-scaled.jpg
+
+////////// Earbuds /////////////
+
+1. Samsung_buds
+
+https://images2.drct2u.com/pdp_main_tablet_x2/products/st/st374/z01st374500s.jpg
+
+2. Beats
+
+https://as-images.apple.com/is/MQLK3?wid=1000&hei=1000&fmt=jpeg&qlt=95&.v=1682361480894
+
+3. Bose_buds
+
+https://assets.bose.com/content/dam/Bose_DAM/Web/consumer_electronics/global/products/headphones/earbuds_500/product_silo_images/seb_product_slideshow_blue_ec_05_web.jpg/jcr:content/renditions/cq5dam.web.1920.1920.jpeg 
+
+4. Sony_buds
+
+https://www.sony.ie/image/31ce4a88b7c956cfffb189c0ac965f21?fmt=png-alpha&wid=400
+
+5. Earbuds
+
+https://cdn.thewirecutter.com/wp-content/media/2025/01/BEST-WIRELESS-BLUETOOTH-EARBUDS-2048px-5969-2x1-1.jpg?width=2048&quality=75&crop=2:1&auto=webp
+
+
+
+//////////////////// SLIDER ///////////////////////////
+
+1. Slider1 
+
+https://img.freepik.com/free-psd/new-smartphone-social-media-cover-design-template_47987-25433.jpg?ga=GA1.1.1868692224.1745499776&semt=ais_hybrid&w=740
+
+2. Slider2
+
+https://img.freepik.com/premium-vector/screen-with-black-background-that-says-make-you-own_1152193-123.jpg?w=2000
+
+3. Slider3
+
+https://img.freepik.com/premium-psd/exclusive-smart-watch-sale-social-media-facebook-banner-cover-post-design_486734-389.jpg?w=2000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
