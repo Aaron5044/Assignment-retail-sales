@@ -23,10 +23,10 @@ Retail-Shop
             <div class="col-12">
                 <h4 class="mb-3">{{category_name}} Products</h4>
                 <hr style="border-color: #b8bfc2;">
+                  {% include 'store/inc/message.html' %}
             </div>
-
+            {% for item in products %}
              <div class="row">  
-                {% for item in products %}
                     <div class="col-md-4 col-lg-3">
                         <div class="card my-3">
                             <img src="{{item.prod_image.url}}" class="card-image-top" alt="Categories">
